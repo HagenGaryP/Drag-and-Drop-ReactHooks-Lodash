@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Drag & Drop elements with React Hooks and lodash
+
+For reference, read this excellent article by Shay Keinan.
+[Mastering Drag & Drop using ReactJS hooks](https://engineering.datorama.com/mastering-drag-drop-using-reactjs-hooks-fb58dc1f816f)
+
+or follow allow with the [video tutorial](https://www.youtube.com/watch?v=mbihHtIy67o&feature=youtu.be) from Salesforce on YouTube
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
