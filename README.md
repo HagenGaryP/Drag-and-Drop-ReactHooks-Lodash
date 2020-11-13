@@ -5,7 +5,9 @@ For reference, read this excellent article by Shay Keinan.
 
 or follow allow with the [video tutorial](https://www.youtube.com/watch?v=mbihHtIy67o&feature=youtu.be) from Salesforce on YouTube
 
-
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+The rest of this readme is from the standard create-react-app
+<br/><br/><br/><br/>
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
